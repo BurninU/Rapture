@@ -1,0 +1,1756 @@
+#EXTM3U
+#EXTINF:0,ACTV 
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+#EXTINF:0,Adult Swim Off The Air [720p]
+#EXTVLCOPT:network-caching=1000
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+#EXTINF:0,Adult Swim Tim and Eric 24/7
+#EXTVLCOPT:network-caching=1000
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:0,Adult Swim Venture Bros. 24/7
+#EXTVLCOPT:network-caching=1000
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+#EXTINF:0,Adult Swim Williams Stream 24/7
+#EXTVLCOPT:network-caching=1000
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:0,Alhurra
+#EXTVLCOPT:network-caching=1000
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0,BLOOMBERG TV (1+) 
+#EXTVLCOPT:network-caching=1000
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:0,BYUTV [720p]
+#EXTVLCOPT:network-caching=1000
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:0,C-SPAN 2
+#EXTVLCOPT:network-caching=1000
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:0,C-SPAN 3
+#EXTVLCOPT:network-caching=1000
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:0,C-SPAN
+#EXTVLCOPT:network-caching=1000
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:0,CATCH 2 [480p]
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+#EXTINF:0,CHANNEL 11 NEWS WPXI PITTSBURGH 
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:0,CLASSIC ARTS SHOWCASE [720p]
+#EXTVLCOPT:network-caching=1000
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0,CLASSIC TV 4U [720p]
+#EXTVLCOPT:network-caching=1000
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:0,FOX5
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:0,GARAGE TV [ES][576p]
+#EXTVLCOPT:network-caching=1000
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:0,Gem TV [480p]
+#EXTVLCOPT:network-caching=1000
+http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:0,I24 NEWS NEWS ENGLISH 
+#EXTVLCOPT:network-caching=1000
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:0,INFOWARS [406p]
+#EXTVLCOPT:network-caching=1000
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0,INVESTIGATION DISCOVERY [480p]
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:0,KIRO 7 NEWS SEATTLE 
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:0,KOMO 4 NEWS SEATTLE 
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:0,KTVB [720p]
+#EXTVLCOPT:network-caching=1000
+http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
+#EXTINF:0,ME TVBLAZE NEWS ENGLISH 
+#EXTVLCOPT:network-caching=1000
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:0,Melody Channel TV [480p]
+#EXTVLCOPT:network-caching=1000
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0,MIAMI TV [1080p]
+#EXTVLCOPT:network-caching=1000
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,MIAMI TV [1080p]
+#EXTVLCOPT:network-caching=1000
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,MY9 [360p]
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
+#EXTINF:0,NBC 5
+#EXTVLCOPT:network-caching=1000
+https://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:0,NBC 1
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0,NBC GOLF
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:0,NBC12
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
+#EXTINF:0,NBC
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:0,NEWS CENTER 7 OHIO 
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:0,Newsmax TV
+#EXTVLCOPT:network-caching=1000
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,NewsWest 9 (KWES)
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/16923548/events/4681078/live.m3u8
+#EXTINF:0,NEWSY 
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:0,NYXT
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
+#EXTINF:0,PBC TAPESH TV
+#EXTVLCOPT:network-caching=1000
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:0,PLANET GREEN
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:0,POP
+#EXTVLCOPT:network-caching=1000
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:0,RALEIGH TELEVISION NETWORK
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8
+#EXTINF:0,Real News With David Knight
+#EXTVLCOPT:network-caching=1000
+https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
+#EXTINF:0,Red Bull TV HD
+#EXTVLCOPT:network-caching=1000
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,Red Bull TV
+#EXTVLCOPT:network-caching=1000
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:0,RED BULL TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0,RETRO TV
+#EXTVLCOPT:network-caching=1000
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:0,SCIENCE CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:0,SHOWTIME
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:0,SINOVISION
+#EXTVLCOPT:network-caching=1000
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:0,Southeastern Channel
+#EXTVLCOPT:network-caching=1000
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0,SUBRANG TV
+#EXTVLCOPT:network-caching=1000
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:0,TBD
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:0,TeleBoston TV
+#EXTVLCOPT:network-caching=1000
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:0,TELEKARIBE
+#EXTVLCOPT:network-caching=1000
+http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8
+#EXTINF:0,The Country Network
+#EXTVLCOPT:network-caching=1000
+http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0,The Country Network
+#EXTVLCOPT:network-caching=1000
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0,The Weather Channel
+#EXTVLCOPT:network-caching=1000
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0,The Weather Network
+#EXTVLCOPT:network-caching=1000
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:0,TRAVEL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:0,TSTV
+#EXTVLCOPT:network-caching=1000
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0,TV BATON ROUGE
+#EXTVLCOPT:network-caching=1000
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:0,TV84
+#EXTVLCOPT:network-caching=1000
+http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
+#EXTINF:0,TV
+#EXTVLCOPT:network-caching=1000
+http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:0,TWiT
+#EXTVLCOPT:network-caching=1000
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0,UALR UNIVERSITY TV
+#EXTVLCOPT:network-caching=1000
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:0,VICTORY TV NETWORK
+#EXTVLCOPT:network-caching=1000
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:0,VOA
+#EXTVLCOPT:network-caching=1000
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0,VOA
+#EXTVLCOPT:network-caching=1000
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:0,VOA
+#EXTVLCOPT:network-caching=1000
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:0,VTV CHANNEL 6 COLORADO
+#EXTVLCOPT:network-caching=1000
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:0,WARROOM
+#EXTVLCOPT:network-caching=1000
+https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
+#EXTINF:0,WCCA TV WORCESTER
+#EXTVLCOPT:network-caching=1000
+http://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0,Weather Nation
+#EXTVLCOPT:network-caching=1000
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0,WESTERN 4U
+#EXTVLCOPT:network-caching=1000
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:0,WVIT
+#EXTVLCOPT:network-caching=1000
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:0,WWSB 7 Sarasota (ABC)
+#EXTVLCOPT:network-caching=1000
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:0,WXXV25
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:0,XCORPS TV
+#EXTVLCOPT:network-caching=1000
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:0,FOX SPORTS RACING [720p]
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0,Rev'n
+#EXTVLCOPT:network-caching=1000
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+#EXTINF:0,Bloomberg [720p]
+#EXTVLCOPT:network-caching=1000
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,Bloomberg [720p]
+#EXTVLCOPT:network-caching=1000
+https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:0,Bloomberg [720p]
+#EXTVLCOPT:network-caching=1000
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:0,Bloomberg Asia [720p]
+#EXTVLCOPT:network-caching=1000
+https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
+#EXTINF:0,Bloomberg Europe [720p]
+#EXTVLCOPT:network-caching=1000
+https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8
+#EXTINF:0,Bloomberg US [720p]
+#EXTVLCOPT:network-caching=1000
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0,Bloomberg
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:0,CNBC [360p]
+#EXTVLCOPT:network-caching=1000
+http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
+#EXTINF:0,CNBC [720p]
+#EXTVLCOPT:network-caching=1000
+http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
+#EXTINF:0,CNBC [720p]
+#EXTVLCOPT:network-caching=1000
+http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0,Sloppy Joe's (Duval St. Cam)
+#EXTVLCOPT:network-caching=1000
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+#EXTINF:0,ANIMAL PLANET [480p]
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:0,Discovery Channel HD [720p]
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:0,Cooking Channel
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:0,360 North [480p]
+#EXTVLCOPT:network-caching=1000
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:0,AKAKU 53 HAWAII [480p]
+#EXTVLCOPT:network-caching=1000
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0,AKAKU 54 HAWAII [480p]
+#EXTVLCOPT:network-caching=1000
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:0,AKAKU 54 HAWAII [480p]
+#EXTVLCOPT:network-caching=1000
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:0,BOWIE TV [360p]
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:0,BUFFALO TV [360p]
+#EXTVLCOPT:network-caching=1000
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0,CGTV [234p]
+#EXTVLCOPT:network-caching=1000
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:0,DC COUNCIL CHANNEL [1080p]
+#EXTVLCOPT:network-caching=1000
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:0,DISTRICT OF COLUMBIA NETWORK [540p]
+#EXTVLCOPT:network-caching=1000
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0,FiOS1 News Lower Hudson Valley [720p]
+#EXTVLCOPT:network-caching=1000
+https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xshu/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
+#EXTINF:0,FOX 11 [720p]
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/6140873/events/live/live.m3u8
+#EXTINF:0,FOX 13 [720p]
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/6180769/events/live/live.m3u8
+#EXTINF:0,FOX 19 [720p]
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8
+#EXTINF:0,FOX 32 [720p]
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/6370732/events/live/live.m3u8
+#EXTINF:0,FOX 46 [432p]
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/6370805/events/live/live.m3u8
+#EXTINF:0,FOX 54 [480p]
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/11328309/events/live/live.m3u8
+#EXTINF:0,GREENSBORO TV NETWORK [360p]
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:0,KOOL TV [480p]
+#EXTVLCOPT:network-caching=1000
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:0,LEOMINSTER TV EDUCATIONAL [720p]
+#EXTVLCOPT:network-caching=1000
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:0,LEOMINSTER TV GOVERNMENT [720p]
+#EXTVLCOPT:network-caching=1000
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:0,LEOMINSTER TV PUBLIC [720p]
+#EXTVLCOPT:network-caching=1000
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:0,LEX TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+#EXTINF:0,OLELO COMMUNITY MEDIA 53
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:0,ORANGE TV
+#EXTVLCOPT:network-caching=1000
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0,PATV
+#EXTVLCOPT:network-caching=1000
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:0,Town of Vienna Community Network [HQ]
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
+#EXTINF:0,Town of Vienna Community Network
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_002/playlist.m3u8
+#EXTINF:0,TVW-2
+#EXTVLCOPT:network-caching=1000
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0,TVW
+#EXTVLCOPT:network-caching=1000
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0,WCCB News Rising
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0,WCCB News Rising
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0,WCNC Breaking News
+#EXTVLCOPT:network-caching=1000
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:0,WGN 9 NEWS CHICAGO
+#EXTVLCOPT:network-caching=1000
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:0,WGN 9 NEWS CHICAGO
+#EXTVLCOPT:network-caching=1000
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0,WHO HD 13
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
+#EXTINF:0,AMERICAN HORRORS [288p]
+#EXTVLCOPT:network-caching=1000
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0,FOX Premium Comedy [360p]
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:0,FOX Premium Movies
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:0,HBO2 [360p]
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:0,HBO2 [720p]
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:0,Pluto Movies
+#EXTVLCOPT:network-caching=1000
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,Sony Movie Channel
+#EXTVLCOPT:network-caching=1000
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:0,Sony Movie Channel
+#EXTVLCOPT:network-caching=1000
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8?hdnts=exp%3D1512080426%7Eacl%3D%2Fi%2F%2A569927%2F%2A%7Ehmac%3D00bf27551374ebc12bc4ebe53e3c5ffd8c3a958231238b907e04fad220dc0b25
+#EXTINF:0,Sony Movie Network
+#EXTVLCOPT:network-caching=1000
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Showtime
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/7/2500000/live.m3u8
+#EXTINF:0,CMC TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0,CMC TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
+#EXTINF:0,CMC TV [720p]
+#EXTVLCOPT:network-caching=1000
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:0,DJing [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/live.m3u8
+#EXTINF:0,DJing Animation [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:0,DJing Animation [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:0,DJing Avicii [720p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/session_avicii.m3u8
+#EXTINF:0,DJing Classic [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/classics.m3u8
+#EXTINF:0,DJing Classic [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:0,DJing Dance Floor [540p]
+#EXTVLCOPT:network-caching=1000
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:0,DJing Dance Floor [540p]
+#EXTVLCOPT:network-caching=1000
+http://djing.com/tv/ibiza.m3u8
+#EXTINF:0,DJing Dance Floor [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0,DJing Dance Floor [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/dancefloor.m3u8?
+#EXTINF:0,DJing Dance Floor [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/dancefloor.m3u8?sd=10&rebase=on
+#EXTINF:0,DJing Dancefloor [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0,DJing Electro rock [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:0,DJing Electro Rock [720p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:0,DJing Electro Rock [720p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_electro-rock.m3u8?sd=10&rebase=on
+#EXTINF:0,DJing French touch [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:0,DJing French Touch [720p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:0,DJing Hedonist [720p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:0,DJing Hits [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/04.m3u8
+#EXTINF:0,DJing Hits [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:0,DJing Hits [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:0,DJing Hot Hot Hot [720p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:0,DJing Hot Hot Hot [720p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0,DJing Ibiza [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0,DJing Ibiza [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/ibiza.m3u8?
+#EXTINF:0,DJing Karaoke [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0,DJing Karaoke [720p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0,DJing Live [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/live.m3u8
+#EXTINF:0,DJing Summer Vibes [720p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:0,DJing Summer Vibes [720p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_summer-vibes.m3u8?sd=10&rebase=on
+#EXTINF:0,DJing Underground [540p]
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:0,DJing Underground [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:0,DJing Underground [540p]
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/underground.m3u8?sd=10&rebase=on
+#EXTINF:0,DJing Underground
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/underground.m3u8?
+#EXTINF:0,The Country Network
+#EXTVLCOPT:network-caching=1000
+http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
+#EXTINF:0,ABC News [720p]
+#EXTVLCOPT:network-caching=1000
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0,ABC News [720p]
+#EXTVLCOPT:network-caching=1000
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
+#EXTINF:0,ABC News [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:0,ABC News Digital 11 [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0,ABC News Digital 2 [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:0,ABC News Digital 3 [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:0,ABC News Digital 4 [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:0,ABC News Digital 5 [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:0,ABC News Digital 6 [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:0,ABC News Digital 7 [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:0,ABC News Digital 8 [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:0,ABC News Digital 9 [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:0,ABC News Digital [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:0,ABC News Live [720p]
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:0,Action News Now (KNVN) [432p]
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
+#EXTINF:0,CBS 4 News [360p]
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0,CBS 4 News [720p]
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:0,CBS 4 News [720p]
+#EXTVLCOPT:network-caching=1000
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:0,CBS News [360p]
+#EXTVLCOPT:network-caching=1000
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:0,CBS News [540p]
+#EXTVLCOPT:network-caching=1000
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+#EXTINF:0,CBS News [720p]
+#EXTVLCOPT:network-caching=1000
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:0,CBS News [720p]
+#EXTVLCOPT:network-caching=1000
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0,CBS News [720p]
+#EXTVLCOPT:network-caching=1000
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:0,CBS News [720p]
+#EXTVLCOPT:network-caching=1000
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:0,FOX News [144p]
+#EXTVLCOPT:network-caching=1000
+http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+#EXTINF:0,KRIS News [720p]
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
+#EXTINF:0,3ABN Latino [480p]
+#EXTVLCOPT:network-caching=1000
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:0,ALHorreya TV [AR][1080p]
+#EXTVLCOPT:network-caching=1000
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+#EXTINF:0,BETTER HEALTH [480p]
+#EXTVLCOPT:network-caching=1000
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:0,Better Life TV
+#EXTVLCOPT:network-caching=1000
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:0,BETTER NATURE [480p]
+#EXTVLCOPT:network-caching=1000
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:0,CATHOLIC TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:0,CBN [480p]
+#EXTVLCOPT:network-caching=1000
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0,CBN Espanol [720p]
+#EXTVLCOPT:network-caching=1000
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0,CBN News [480p]
+#EXTVLCOPT:network-caching=1000
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:0,CBN News [480p]
+#EXTVLCOPT:network-caching=1000
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0,Christian Hip Hop Television [360p]
+#EXTVLCOPT:network-caching=1000
+http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist.m3u8
+#EXTINF:0,CORNERSTONE TV [640p]
+#EXTVLCOPT:network-caching=1000
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+#EXTINF:0,DR GENE SCOTT [EN][480p]
+#EXTVLCOPT:network-caching=1000
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:0,JUCE TV [540p]
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8
+#EXTINF:0,SBN INTERNATIONAL
+#EXTVLCOPT:network-caching=1000
+http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/ch80/ch80.m3u8
+#EXTINF:0,THE HOUSE OF YAHWEH [480p]
+#EXTVLCOPT:network-caching=1000
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+#EXTINF:0,EVINE [720p]
+#EXTVLCOPT:network-caching=1000
+https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+#EXTINF:0,HSN 2 [414p]
+#EXTVLCOPT:network-caching=1000
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:0,HSN [720p]
+#EXTVLCOPT:network-caching=1000
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:0,CCX Sports [1080p]
+#EXTVLCOPT:network-caching=1000
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0,Cheddar Sports
+#EXTVLCOPT:network-caching=1000
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:0,ESPN [720p]
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0,MLB Network [540p]
+#EXTVLCOPT:network-caching=1000
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:0,MLB USA [720p]
+#EXTVLCOPT:network-caching=1000
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0,NULL
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0,Jasmin TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:0,Jasmin TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+#EXTINF:0,Jasmin TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,Jasmin TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+#EXTINF:0,Jasmin TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:0,Jasmin TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,Penthouse HD
+#EXTVLCOPT:network-caching=1000
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
+#EXTINF:0,Impact TV [480p]
+#EXTVLCOPT:network-caching=1000
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+#EXTINF:0,The Shopping Channel
+#EXTVLCOPT:network-caching=1000
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0,Texas Student TV
+#EXTVLCOPT:network-caching=1000
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0,Temple University TV
+#EXTVLCOPT:network-caching=1000
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:0,Miami TV (Lifestyle)
+#EXTVLCOPT:network-caching=1000
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1078336163_b2592000.m3u8
+#EXTINF:0,District of Columbia Network
+#EXTVLCOPT:network-caching=1000
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0,VoA
+#EXTVLCOPT:network-caching=1000
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0,Weather Channel
+#EXTVLCOPT:network-caching=1000
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0,The Weather Network
+#EXTVLCOPT:network-caching=1000
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:0,360 North
+#EXTVLCOPT:network-caching=1000
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:0,The Country Network
+#EXTVLCOPT:network-caching=1000
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0,Free Speech TV
+#EXTVLCOPT:network-caching=1000
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:0,Russia Today America
+#EXTVLCOPT:network-caching=1000
+https://rt-usa.secure.footprint.net/1105-inadv-qidx-2k_v3.m3u8
+#EXTINF:0,RT USA
+#EXTVLCOPT:network-caching=1000
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:0,Seattle Channel
+#EXTVLCOPT:network-caching=1000
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:0,Southeastern Channel
+#EXTVLCOPT:network-caching=1000
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0,US:CBS
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:0,US:NBC
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:0,US:HBO 2
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:0,Kool TV
+#EXTVLCOPT:network-caching=1000
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:0,Juce tv (Family)
+#EXTVLCOPT:network-caching=1000
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0,CTV News Live Events 1
+#EXTVLCOPT:network-caching=1000
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:0,CTV News Live Events 4
+#EXTVLCOPT:network-caching=1000
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:0,CTV News Live Events 3
+#EXTVLCOPT:network-caching=1000
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:0,CTV News Live Events 2
+#EXTVLCOPT:network-caching=1000
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:0,Lite FM 106.7 New York
+#EXTVLCOPT:network-caching=1000
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:0,iHeartRadio 80s
+#EXTVLCOPT:network-caching=1000
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:0,Z100 Radio New York
+#EXTVLCOPT:network-caching=1000
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:0,Smooth Jazz 107.1 FM Sacramento (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8?listeningSessionID=573aa3a50116edba_230911_zluekKxF_0000000ofY5&downloadSessionID=0&at=0&clientType=web&fb_broadcast=0&init_id=8169&modTime=1463691594128&pname=OrganicWeb&profileid=248665060&birthYear=null&territory=US&host=webapp.US&listenerId=2af9feef0b0210de61e97b0c25264388&uid=1463690853820&gender=null&age=null&amsparams=playerid:iHeartRadioWebPlayer;skey:1463691594&terminalid=159&zipcode=null&awparams=g:null;n:null;ccaud:[%2210358%22,%2210410%22,%2210385%22,%2210032%22,%2210093%22,%2210379%22,%2210488%22,%2210290%22,%2210085%22,%2210167%22,%2210404%22,%2210022%22,%2210097%22,%2210078%22,%2210029%22,%2210359%22,%2210010%22,%2210277%22,%22all%22,%2210018%22,%2210275%22,%2210202%22,%2210019%22,%2210028%22,%2210396%22,%2210407%22,%2210008%22,%2210043%22,%2210094%22,%2210030%22,%2210393%22,%2210103%22,%2210017%22,%2210088%22,%2210468%22,%2210086%22];companionAds:true&playedFrom=338
+#EXTINF:0,Nick Radio (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:0,Tuff TV
+#EXTVLCOPT:network-caching=1000
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:0,California Music Channel
+#EXTVLCOPT:network-caching=1000
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0,ABC
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/abc432.m3u8
+#EXTINF:0,Bet
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/bet.m3u8
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/cc.m3u8
+#EXTINF:0,CMT (Country Music Television)
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/cmt.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/espn1_540.m3u8
+#EXTINF:0,ESPN2
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/espn2_540.m3u8
+#EXTINF:0,ESPN News
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/espnews.m3u8
+#EXTINF:0,ESPN U
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/espnu.m3u8
+#EXTINF:0,Longhorn Network (ESPNLHN)
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/lghn.m3u8
+#EXTINF:0,Logo TV
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/logotv.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/mtv.m3u8
+#EXTINF:0,Spike Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/spikeus.m3u8
+#EXTINF:0,TV Land
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/tvland.m3u8
+#EXTINF:0,VH1
+#EXTVLCOPT:network-caching=1000
+http://espn.tmedia.me/cache/vh1.m3u8
+#EXTINF:0,Tempe 11
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:0,ACTV Government Access Channel
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+#EXTINF:0,Olelo Community Media 49
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+#EXTINF:0,Olelo Community Media 53
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:0,Olelo Community Media 54
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:0,Olelo Community Media 55
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:0,Bloomington TV
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus2-a.akamaihd.net/bloomingtonmn/G1223_002/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:0,Lex TV
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
+#EXTINF:0,Raleigh Television Network
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8?fluxustv.m3u8
+#EXTINF:0,CC-TV Charlotte County
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:0,Bowie TV
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:0,Cerritos TV3
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:0,Collier TV
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus4-a.akamaihd.net/collier/G0056_003/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:0,Greenbelt Municipal Access TV
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:0,Greensboro TV Network
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:0,LA36
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8?fluxustv.m3u8
+#EXTINF:0,Denver 8 TV
+#EXTVLCOPT:network-caching=1000
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:0,InfoWars
+#EXTVLCOPT:network-caching=1000
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0,NASA TV Media
+#EXTVLCOPT:network-caching=1000
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Globesville - New York Institute of Technology
+#EXTVLCOPT:network-caching=1000
+http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
+#EXTINF:0,ABC (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:0,New Orleans TV
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0,UALR University TV
+#EXTVLCOPT:network-caching=1000
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:0,Newsmax TV
+#EXTVLCOPT:network-caching=1000
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,Daytona Beach TV
+#EXTVLCOPT:network-caching=1000
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:0,WHOH TV
+#EXTVLCOPT:network-caching=1000
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0,QVC 2
+#EXTVLCOPT:network-caching=1000
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
+#EXTINF:0,Beauty IQ
+#EXTVLCOPT:network-caching=1000
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/manifest.m3u8
+#EXTINF:0,QVC
+#EXTVLCOPT:network-caching=1000
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:0,QVC (Opt-1)
+#EXTVLCOPT:network-caching=1000
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+#EXTINF:0,CGTV - City of Champaign
+#EXTVLCOPT:network-caching=1000
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:0,Escambia County TV
+#EXTVLCOPT:network-caching=1000
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
+#EXTINF:0,White Plains Community Media
+#EXTVLCOPT:network-caching=1000
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:0,Lake Front TV
+#EXTVLCOPT:network-caching=1000
+http://streams.helnix.com/autoHLS/3ebf762a9e22375d/3ebf762a9e22375d.m3u8?VCC=19_45_38
+#EXTINF:0,Comet TV (Geo)
+#EXTVLCOPT:network-caching=1000
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:0,UWW-TV - University of Wisconsin Whitewater
+#EXTVLCOPT:network-caching=1000
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
+#EXTINF:0,CT-N Instant
+#EXTVLCOPT:network-caching=1000
+http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
+#EXTINF:0,CT-N Streaming Media
+#EXTVLCOPT:network-caching=1000
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:0,CT-N Court Feed
+#EXTVLCOPT:network-caching=1000
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:0,CT-N Live Stream 1
+#EXTVLCOPT:network-caching=1000
+http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
+#EXTINF:0,CT-N Live Stream 2
+#EXTVLCOPT:network-caching=1000
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:0,DC Council Channel
+#EXTVLCOPT:network-caching=1000
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:0,WCCA TV Worcester
+#EXTVLCOPT:network-caching=1000
+http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
+#EXTINF:0,Jewelry Television
+#EXTVLCOPT:network-caching=1000
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:0,ABC News (Opt-1)
+#EXTVLCOPT:network-caching=1000
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:0,ABC News (Opt-2)
+#EXTVLCOPT:network-caching=1000
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0,Akaku 53 Hawaii
+#EXTVLCOPT:network-caching=1000
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0,Akaku 54 Hawaii
+#EXTVLCOPT:network-caching=1000
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:0,Akaku 55 Hawaii
+#EXTVLCOPT:network-caching=1000
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:0,Evine
+#EXTVLCOPT:network-caching=1000
+https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+#EXTINF:0,Pop
+#EXTVLCOPT:network-caching=1000
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:0,BYUtv
+#EXTVLCOPT:network-caching=1000
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:0,CONtv (Opt-1)
+#EXTVLCOPT:network-caching=1000
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:0,Classic Arts Showcase
+#EXTVLCOPT:network-caching=1000
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0,ABC (Opt-1)
+#EXTVLCOPT:network-caching=1000
+https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+#EXTINF:0,Newsy
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:0,Stadium
+#EXTVLCOPT:network-caching=1000
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:0,Red Bull TV (Opt-1)
+#EXTVLCOPT:network-caching=1000
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:0,RED BULL TV OPT 1
+#EXTVLCOPT:network-caching=1000
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
+#EXTINF:0,DPAN.TV
+#EXTVLCOPT:network-caching=1000
+https://dplive-i.akamaihd.net/hls/live/264199/dpanlive/playlist.m3u8
+#EXTINF:0,Lake Havasu City 4
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+#EXTINF:0,Chandler Channel
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
+#EXTINF:0,Benicia TV
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
+#EXTINF:0,InfoWars
+#EXTVLCOPT:network-caching=1000
+https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/index_800_av-p.m3u8
+#EXTINF:0,CounterThink
+#EXTVLCOPT:network-caching=1000
+https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
+#EXTINF:0,Real News
+#EXTVLCOPT:network-caching=1000
+https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
+#EXTINF:0,WarRoom
+#EXTVLCOPT:network-caching=1000
+https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
+#EXTINF:0,WHAM Network
+#EXTVLCOPT:network-caching=1000
+https://live.cdn.wham.tv/hls/stream.m3u8
+#EXTINF:0,Classic TV 4U
+#EXTVLCOPT:network-caching=1000
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:0,Movee 4U
+#EXTVLCOPT:network-caching=1000
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:0,Npowered TV
+#EXTVLCOPT:network-caching=1000
+https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
+#EXTINF:0,SPYDAR TV
+#EXTVLCOPT:network-caching=1000
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+#EXTINF:0,Western 4U
+#EXTVLCOPT:network-caching=1000
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:0,Mobcrush
+#EXTVLCOPT:network-caching=1000
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:0,C-SPAN
+#EXTVLCOPT:network-caching=1000
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:0,C-SPAN 2
+#EXTVLCOPT:network-caching=1000
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:0,C-SPAN 3
+#EXTVLCOPT:network-caching=1000
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:0,Glendale 11
+#EXTVLCOPT:network-caching=1000
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:0,NRA TV
+#EXTVLCOPT:network-caching=1000
+https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
+#EXTINF:0,Charge! (Geo)
+#EXTVLCOPT:network-caching=1000
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0,Who?Mag TV
+#EXTVLCOPT:network-caching=1000
+https://vcndmtv.teleosmedia.com/stream/dmtv/whomagmultimedia/seglist_720p.m3u8
+#EXTINF:0,Dancestar TV
+#EXTVLCOPT:network-caching=1000
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:0,Screamfest
+#EXTVLCOPT:network-caching=1000
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:0,AKC TV
+#EXTVLCOPT:network-caching=1000
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:0,Cheddar Big News
+#EXTVLCOPT:network-caching=1000
+https://wowzaprod124-i.akamaihd.net/hls/live/505691/261805b7/playlist.m3u8
+#EXTINF:0,CBS News (Opt-2)
+#EXTVLCOPT:network-caching=1000
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:0,Central Valley Talk
+#EXTVLCOPT:network-caching=1000
+http://1-fss29-s0.streamhoster.com/lv_cvtalkf1/_definst_/broadcast1/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:0,unknown HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8
+#EXTINF:0,Big Ten Network
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
+#EXTINF:0,Big Ten Network
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:0,FOX SPORT
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0,Cooking Channel
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:0,TELESHOP HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226207/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:0,B4U MOVIES
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226255/index.m3u8
+#EXTINF:0,BASHMENT
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226311/index.m3u8
+#EXTINF:0,FOX
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0,B4U music
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226332/index.m3u8
+#EXTINF:0,TEN CRICKET
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226394/index.m3u8
+#EXTINF:0,unknown
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:0,ZEE World
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:0,axs tv HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:0,Trinity TV
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8
+#EXTINF:0,And TV
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226705/index.m3u8
+#EXTINF:0,Zee Cinema
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
+#EXTINF:0,HYPE
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226726/index.m3u8
+#EXTINF:0,my9
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226727/index.m3u8
+#EXTINF:0,GBV
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226729/index.m3u8
+#EXTINF:0,SPORTS MAX
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:0,SPORTS MAX 2
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226777/index.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:0,FOX PREMIUM CINEMA
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:0,FOX COMEDY
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0,BRAVO
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226804/index.m3u8
+#EXTINF:0,Fish Channel
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:0,NBC GOLF
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:0,France 24
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:0,Universal Channel HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226831/index.m3u8
+#EXTINF:0,Trident 10 TV
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226832/index.m3u8
+#EXTINF:0,MAX Prime HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:0,mm
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226847/index.m3u8
+#EXTINF:0,TV Jaagriti
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226848/index.m3u8
+#EXTINF:0,Catch
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226865/index.m3u8
+#EXTINF:0,Catch 2
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226874/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0,FLOW Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:0,cnbc
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:0,VH HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226127/03.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:0,145 HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226145/index.m3u8
+#EXTINF:0,177 HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:0,FOX SPORT
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0,Cooking Channel
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:0,TELESHOP HD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221226207/index.m3u8
+#EXTINF:0,CBS
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0,CBS (East)
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:0,NBC
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0,NBC (East)
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:0,HBO International
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:0,Fox Sports Racing
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0,Fox Premium Movies
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:0,FOX Premium Movies
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0,Zee World
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:0,AXS TV
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:0,NBC Golf
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0,Flow Sports 1
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.6/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:0,Fox Premium Movies
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:0,Fox Sports Racing
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0,Djing Hits
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/04.m3u8
+#EXTINF:0,DJing Hot Hot Hot
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:0,Ibiza Djing
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0,Djing Animation HD
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/a-28081-04.m3u8
+#EXTINF:0,DJing Animation
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:0,DJing Classics
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:0,Djing Ibiza HD
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/d-28081-04.m3u8
+#EXTINF:0,DJing Dancefloor
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0,DJing Hits
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:0,Djing Classic HD
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/i-28081-04.m3u8
+#EXTINF:0,DJing Karaoke
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0,DJing Live
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/live.m3u8
+#EXTINF:0,DJing Electro Rock
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:0,DJing French Touch
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:0,DJing Summer Vibes
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:0,Djing Underground HD
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/u-28081-04.m3u8
+#EXTINF:0,DJing Underground
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:0,CBS 12 Augusta (WRDW)
+#EXTVLCOPT:network-caching=1000
+https://goo.gl/6LuaNF
+#EXTINF:0,FOX NEWS Talk - FOX NEWS Radio
+#EXTVLCOPT:network-caching=1000
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:0,FOX NEWS LD
+#EXTVLCOPT:network-caching=1000
+https://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/index_300000_av-p.m3u8
+#EXTINF:0,Chicago
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/13661.flv/playlist.m3u8
+#EXTINF:0,Manatee Cam US
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/14014.flv/playlist.m3u8
+#EXTINF:0,Florida Everglades
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/14162.flv/playlist.m3u8
+#EXTINF:0,Miami Cafe US
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/15061.flv/playlist.m3u8
+#EXTINF:0,South Carolina
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
+#EXTINF:0,EarthCam SouthView
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+#EXTINF:0,Broadway South View NY
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
+#EXTINF:0,Bourbon Street
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/4280.flv/HasBahCa.m3u8
+#EXTINF:0,Louisiana
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
+#EXTINF:0,Lousiana
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/4282.flv/HasBahCa.m3u8
+#EXTINF:0,New Mexico
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8
+#EXTINF:0,Nevada Las Vegas
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
+#EXTINF:0,Mulberry France Street
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/5775.flv/playlist.m3u8
+#EXTINF:0,Texas
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8
+#EXTINF:0,California
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8
+#EXTINF:0,Columbus Circle
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
+#EXTINF:0,California
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8
+#EXTINF:0,Dallas Texas 1
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/7524.flv/playlist.m3u8
+#EXTINF:0,EartCam Street
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
+#EXTINF:0,Broadway NY  Street Cam
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
+#EXTINF:0,Nevada
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
+#EXTINF:0,Eiffel cam HD
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8
+#EXTINF:0,Broadway NY
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
+#EXTINF:0,California
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8
+#EXTINF:0,Lauderdale Beach
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8
+#EXTINF:0,High Line
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
+#EXTINF:0,Ft. Lauderdale Marina
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
+#EXTINF:0,CN Tower 2
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+#EXTINF:0,CN Tower 1
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+#EXTINF:0,Charging Bull
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:0,ESPN 2 (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
+#EXTINF:0,American Horrors
+#EXTVLCOPT:network-caching=1000
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0,24-7 Retro TV
+#EXTVLCOPT:network-caching=1000
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:0,Darcizzle Offshore
+#EXTVLCOPT:network-caching=1000
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:0,30A TV
+#EXTVLCOPT:network-caching=1000
+http://30a-tv.com/my999.m3u8
+#EXTINF:0,Sidewalks
+#EXTVLCOPT:network-caching=1000
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:0,SCP-TV - St. Charles Parish
+#EXTVLCOPT:network-caching=1000
+http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:0,NEOX
+#EXTVLCOPT:network-caching=1000
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?%20www.tecnotv.info?
+#EXTINF:0,Combat Go
+#EXTVLCOPT:network-caching=1000
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+#EXTINF:0,BUTV10 - Boston University
+#EXTVLCOPT:network-caching=1000
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0,VH1 (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:0,TBD
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:0,TBD
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:0,Fairfax Public Access
+#EXTVLCOPT:network-caching=1000
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:0,Rev'n (New!)
+#EXTVLCOPT:network-caching=1000
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+#EXTINF:0,WSVI-TV
+#EXTVLCOPT:network-caching=1000
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
+#EXTINF:0,CSU Dominguez Hills
+#EXTVLCOPT:network-caching=1000
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+#EXTINF:0,Leominster TV Educational
+#EXTVLCOPT:network-caching=1000
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:0,Fox News Talk Radio
+#EXTVLCOPT:network-caching=1000
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:0,Leominster TV Government
+#EXTVLCOPT:network-caching=1000
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:0,Leominster TV Public
+#EXTVLCOPT:network-caching=1000
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:0,VTV Channel 6 Colorado
+#EXTVLCOPT:network-caching=1000
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:0,CNN/U.S SD
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:0,NBC North Dakota (KFYR)
+#EXTVLCOPT:network-caching=1000
+http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
+#EXTINF:0,FOX 54 Augusta (WFXG)
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/11328309/events/3653675/live.m3u8
+#EXTINF:0,CBS 11 Savannah (WTOC)
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
+#EXTINF:0,Fox 28 Savannah (WTGS)
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:0,CGTN America
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+#EXTINF:0,WCCB News (Charlotte)
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0,FOX29
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
+#EXTINF:0,WBZ 4 News (Boston)
+#EXTVLCOPT:network-caching=1000
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:0,CBSN
+#EXTVLCOPT:network-caching=1000
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:0,Djing Dance Floor Music
+#EXTVLCOPT:network-caching=1000
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:0,News 12 (Connecticut - Traffic)
+#EXTVLCOPT:network-caching=1000
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+#EXTINF:0,News 12 (Connecticut)
+#EXTVLCOPT:network-caching=1000
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+#EXTINF:0,News 12 (Hudson Valley)
+#EXTVLCOPT:network-caching=1000
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+#EXTINF:0,News 12 (Long Island - Traffic)
+#EXTVLCOPT:network-caching=1000
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+#EXTINF:0,News 12 (New Jersey - Traffic)
+#EXTVLCOPT:network-caching=1000
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+#EXTINF:0,News 12 (New Jersey)
+#EXTVLCOPT:network-caching=1000
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+#EXTINF:0,News 12 (New York City - Traffic)
+#EXTVLCOPT:network-caching=1000
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+#EXTINF:0,News 12 (Westchester)
+#EXTVLCOPT:network-caching=1000
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+#EXTINF:0,Channel 11 News WPXI (Pittsburgh)
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:0,WHO 13 Weather (Iowa)
+#EXTVLCOPT:network-caching=1000
+http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8
+#EXTINF:0,News Center 7 (Ohio)
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8
+#EXTINF:0,KIRO 7 News (Seattle)
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
+#EXTINF:0,Boston 25 News (Massachusetts)
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
+#EXTINF:0,WBRZ-TV (Baton Rouge)
+#EXTVLCOPT:network-caching=1000
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
+#EXTINF:0,KOMO 4 News (Seattle)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:0,WHDH 7 Boston
+#EXTVLCOPT:network-caching=1000
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:0,NBC 29 (WVIR)
+#EXTVLCOPT:network-caching=1000
+http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8?forceCacheClearSM=530806100000
+#EXTINF:0,NWCT 12 (Minnesota)
+#EXTVLCOPT:network-caching=1000
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:0,US: ESPN NEWS ENGLISH
+#EXTVLCOPT:network-caching=1000
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:0,US: MLB NETWORK (1+)
+#EXTVLCOPT:network-caching=1000
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0,US: MLB NETWORK PUBLIC-SPORTS ENGLISH
+#EXTVLCOPT:network-caching=1000
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
+#EXTINF:0,US: RED BULL TV (1+)
+#EXTVLCOPT:network-caching=1000
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,US: RED BULL TV (2+)
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0,Adult Swim
+#EXTVLCOPT:network-caching=1000
+https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer6.m3u8
+#EXTINF:0,CBN News
+#EXTVLCOPT:network-caching=1000
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,CBS News (CBSN)
+#EXTVLCOPT:network-caching=1000
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
+#EXTINF:0,California Music Channel - CMC
+#EXTVLCOPT:network-caching=1000
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:0,The Country Network
+#EXTVLCOPT:network-caching=1000
+http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
+#EXTINF:0,Free Speech TV
+#EXTVLCOPT:network-caching=1000
+https://edge.free-speech-tv-live.top.comcast.net/out/u/39569_5.m3u8
+#EXTINF:0,NASA TV
+#EXTVLCOPT:network-caching=1000
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Newsmax TV
+#EXTVLCOPT:network-caching=1000
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
+#EXTINF:0,Voice of America (VOA)
+#EXTVLCOPT:network-caching=1000
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:0,The Weather Channel
+#EXTVLCOPT:network-caching=1000
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8
+#EXTINF:0,WeatherNation TV
+#EXTVLCOPT:network-caching=1000
+http://klive.kaltura.com/dc-1/m/ny-live-publish109/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/BfzLUJ_m8tBbdNeSqAPsRg/playlist.m3u8
+#EXTINF:0,CGTV
+#EXTVLCOPT:network-caching=1000
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:0,Fox News Radio
+#EXTVLCOPT:network-caching=1000
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:0,Buffalo Gov't TV
+#EXTVLCOPT:network-caching=1000
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0,FRANCE 24
+#EXTVLCOPT:network-caching=1000
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0,Rye TV
+#EXTVLCOPT:network-caching=1000
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0,TVW-2
+#EXTVLCOPT:network-caching=1000
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0,TVW
+#EXTVLCOPT:network-caching=1000
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0,Orange TV
+#EXTVLCOPT:network-caching=1000
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0,Beach TV - Panama City
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0,KBVR TV
+#EXTVLCOPT:network-caching=1000
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0,Beach TV - 30A
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0,Beach TV - Pawleys Island
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0,Atlanta Channel
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0,Key TV
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0,Beto TV (Lifestyle)
+#EXTVLCOPT:network-caching=1000
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:0,Canada Star TV
+#EXTVLCOPT:network-caching=1000
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:0,BLOOMBERG (US)
+#EXTVLCOPT:network-caching=1000
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:0,One Channel (US) (Arabic)
+#EXTVLCOPT:network-caching=1000
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:0,CMC (US)
+#EXTVLCOPT:network-caching=1000
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CMCUSA.m3u8
+#EXTINF:0,ABC NEWS (US)
+#EXTVLCOPT:network-caching=1000
+https://abclive1-lh.akamaihd.net/i/abc_preview02@425077/index_100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,NEWSMAXTV (US)
+#EXTVLCOPT:network-caching=1000
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
